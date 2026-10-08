@@ -64,7 +64,7 @@ For anything about security, please do not open a public issue: write to contact
 - **Is it free?** Yes. If it is useful to you, you can [buy me a coffee](https://buymeacoffee.com/nhympex).
 - **Is there a version for Mac, Linux or iPhone?** No. Windows on the PC side, Android on the phone side.
 - **Where is the source code?** It is not published at this time. This page is for information, downloads and bug reports.
-- **Who makes it?** One independent developer in Denmark.
+- **Who makes it?** One independent developer.
 
 Also from the same maker: [DeskEditor : PDF Editor](https://desktransfer.app/deskeditor) for Android, coming soon.
 
